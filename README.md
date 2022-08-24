@@ -25,20 +25,22 @@ relative to the other schools?
 
 - How does replacing the ninth-grade scores affect the following:
 
-	Math and reading scores by grade:
+*Math and reading scores by grade:
 ![Reading Scores By Grade Original](/Resources/03a-Reading_Scores_By_Grade.png "Reading Scores By Grade Original")
 ![Reading Scores By Grade Recreated](/Resources/03b-Reading_Scores_By_Grade.png "Reading Scores By Grade Recreated")
 
 ![Math Scores By Grade Original](/Resources/04a-Math_Scores_By_Grade.png "Math Scores By Grade Original")
 ![Math Scores By Grade Recreated](/Resources/04b-Math_Scores_By_Grade.png "Math Scores By Grade Recreated")
 
-	Scores by school spending:
+*Scores by school spending:
 ![Scores By Spending Original](/Resources/05a-Scores_by_Spending.png "Scores By Spending Original")
 ![Scores By Spending Recreated](/Resources/05b-Scores_by_Spending.png "Scores By Spending Recreated")
-	Scores by school size:
+
+*Scores by school size:
 ![Scores By Size Original](/Resources/06a-Scores_by_Size.png "Scores By Size Original")
 ![Scores By Size Recreated](/Resources/06b-Scores_by_Size.png "Scores By Size Recreated")
-	Scores by school type:
+
+*Scores by school type:
 ![Scores By Type Original](/Resources/07a-Scores_by_Type.png "Scores By Type Original")
 ![Scores By Type Recreated](/Resources/07b-Scores_by_Type.png "Scores By Type Recreated")
 
