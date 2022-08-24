@@ -51,7 +51,7 @@ Scores by school type:
 ![Scores By Type Recreated](/Resources/07b-Scores_by_Type.png "Scores By Type Recreated")
 
 ## Summary
--Summarize four changes in the updated school district analysis.
+
 1. In the District Summary, the "% Passing Math" dropped by 0.2%, the "% Passing Reading" dropped 0.1%, and
  the "% Overall Passing" dropped 0.3%
 2. In the School Summary, the following values changed for Thomas High School: "% Passing Math" dropped to 66.9%, 
