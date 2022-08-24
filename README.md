@@ -6,7 +6,8 @@ Module 4 of Rutgers Data Science Bootcamp. Working with Pandas library in Jupyte
 ## Overview of Project
 
 ### Purpose
-	The purpose of the analysis is to recreate metrics from the school district analysis with the replacement 
+
+The purpose of the analysis is to recreate metrics from the school district analysis with the replacement 
 of 9th grade scores as NaN values.
 
 ## Results
@@ -21,11 +22,13 @@ of 9th grade scores as NaN values.
 
 - How does replacing the ninth graders' math and reading scores affect Thomas High School's performance 
 relative to the other schools?
-	The values for the school dropped from values in the 90% range to the 60% range.
+
+The values for the school dropped from values in the 90% range to the 60% range.
 
 - How does replacing the ninth-grade scores affect the following:
 
-*Math and reading scores by grade:
+Math and reading scores by grade:
+
 ![Reading Scores By Grade Original](/Resources/03a-Reading_Scores_by_Grade.png "Reading Scores By Grade Original")
 ![Reading Scores By Grade Recreated](/Resources/03b-Reading_Scores_by_Grade.png "Reading Scores By Grade Recreated")
 
